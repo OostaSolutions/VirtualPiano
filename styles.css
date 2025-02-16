@@ -1,0 +1,73 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "sue ellen francisco", serif;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+
+  
+
+
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.one {
+  text-decoration: underline dotted;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.black {
+  background-color: black;
+  color: rgba(0, 0, 0, 0.37);
+}
+
+.white{
+  background-color: white;
+  color: rgba(255, 255, 255, 0.39);
+}
+
+.piano {
+  outline: none;
+  border: 1px solid #404B69;
+  font-size: 3rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 80px;
+  height: 250px;
+  text-align: center;
+  margin: 0px;
+  
+}
+.pressed {
+  box-shadow: 0 3px 4px 0 #f3e7db;
+  opacity: 0.5;
+}
+.q {}
+.w {}
+.e {}
+.r {}
+.t {}
+.y {}
+.u {}
+.i {}
+.o {}
+.p {}
+.k {}
+.l {}
